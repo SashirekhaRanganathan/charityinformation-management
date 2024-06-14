@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h2 style="padding-top: 20px;" class="charity">UnityCares <img src="photo/charityLogo.jpg" width="40px"height="30px"></h2>
+       
+        <nav class="navigation">
+            <a href="index.html">Home |</a>
+            <a href="events.php">Events |</a>
+            <a href="aboutus.html">About |</a>
+            <a href="image.html">Gallery |</a>
+            <a href="contact.html">Contact |</a>
+            <button class="btnLogin-popup"><a href="register.php">Register</a></button>
+            <button class="btnLogin-popup"><a href="login.html">Admin</a></button>
+        </nav>
+    </header>
+    <div style="margin-top: 100px;" class="wrapper">
+        <h1>Admin Login Page</h1>
+        <form name="myform" method="post" >
+            <input type="text" placeholder="Username" name="name">
+            <input type="password" placeholder="Password" name="password">
+            <button type="button"class="button-login" onclick="adminLogin()">Login</button>
+        </form>
+  
+    </div>
+    <script>
+    function adminLogin(){
+        var name=document.myform.name.value;
+        var password=document.myform.password.value;
+        var adminname="Admin";
+        var adminpassword="bgcw";
+     
+        if(adminname==name && adminpassword==password)
+        {
+            //alert("Login sucessfull");
+            window.location.href="adminViews.html";
+           // addpopupbutton.style.dispaly="block";
+            //return true;
+        }
+        else{
+            alert("Invalid username or password.Please try again");
+           // return false;
+        }
+    }
+</script>
+</body>
+</html>

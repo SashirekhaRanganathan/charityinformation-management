@@ -34,3 +34,20 @@ The Charity Information Management System is my final year project aimed at prov
 - CSS
 - Backend technology(PHP)
 - Database(MYSQL)
+
+- #Screenshots:
+- ![Screenshot (29)](https://github.com/SashirekhaRanganathan/charityinformation-management/assets/157386972/88db6c19-0c05-4763-b466-d8a445a94c4a)
+- ![Screenshot (31)](https://github.com/SashirekhaRanganathan/charityinformation-management/assets/157386972/1d96174d-fd55-424c-8b4a-02b08e5b6b98)
+- ![Screenshot (30)](https://github.com/SashirekhaRanganathan/charityinformation-management/assets/157386972/8b184bb4-0924-4593-9105-44c78fc18188)
+- ![Screenshot (33)](https://github.com/SashirekhaRanganathan/charityinformation-management/assets/157386972/b9bba04d-2918-4a29-a016-2918523b0eee)
+- ![Screenshot (33)](https://github.com/SashirekhaRanganathan/charityinformation-management/assets/157386972/d7c67048-f9e8-4ffc-8170-ded177adad82)
+- ![Screenshot (37)](https://github.com/SashirekhaRanganathan/charityinformation-management/assets/157386972/1dc1b0b4-04ee-4754-9e5f-e644e011d154)
+- ![Screenshot (34)](https://github.com/SashirekhaRanganathan/charityinformation-management/assets/157386972/d032392e-ec0e-48ab-837a-55d8144c2cd0)
+- ![Screenshot (40)](https://github.com/SashirekhaRanganathan/charityinformation-management/assets/157386972/89492f08-4d60-4aa2-a712-5021d309df1f)
+
+
+
+
+
+
+
